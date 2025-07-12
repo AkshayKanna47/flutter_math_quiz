@@ -1,6 +1,7 @@
 # flutter_quiz
+Math Quiz is an quiz app for boosting your maths knowlegde.
 
-A new Flutter project.
+Still some design work is to be done. 
 
 ## Getting Started
 
